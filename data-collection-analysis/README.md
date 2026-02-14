@@ -1,5 +1,5 @@
 
-# Functional Specification: Enterprise Visual SaaS CMS
+# Functional Specification: Visual SaaS CMS
 
 ## I. The Security & Authentication Foundation (The Fortress)
 
