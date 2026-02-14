@@ -1,0 +1,37 @@
+# Visual Studio & VS Code
+.vs/
+.vscode/
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Debug/Release artifacts
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Entity Framework & Local Configs
+appsettings.Development.json
+appsettings.Local.json

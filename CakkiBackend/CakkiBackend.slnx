@@ -1,3 +1,8 @@
 <Solution>
-  <Project Path="CakkiBackend/CakkiBackend.csproj" />
+  <Folder Name="/src/">
+    <Project Path="Cakki.API/Cakki.API.csproj" />
+    <Project Path="Cakki.Application/Cakki.Application.csproj" />
+    <Project Path="Cakki.Domains/Cakki.Domains.csproj" />
+    <Project Path="Cakki.Infrastructure/Cakki.Infrastructure.csproj" />
+  </Folder>
 </Solution>
